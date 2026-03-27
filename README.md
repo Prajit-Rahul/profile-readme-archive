@@ -2,6 +2,8 @@
 
 Software engineer and applied AI builder currently pursuing an MS in Computer Science at USC.
 
+Last updated: March 27, 2026
+
 I work at the intersection of full-stack development, machine learning, and LLM-powered systems. My background spans React and Flutter frontends, Spring Boot and Node.js backends, analytics platforms, model-building on large datasets, and research-oriented AI projects that focus on practical tradeoffs like latency, reliability, and deployment efficiency.
 
 I am actively interested in software engineering, applied AI, and machine learning roles.
